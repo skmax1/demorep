@@ -1,0 +1,27 @@
+body{
+	background-image: url(https://cdn3.f-cdn.com/contestentries/1489974/18545046/5cba2aba229c4_thumb900.jpg);
+}
+h1{
+	color: orangered;
+}
+/*
+img
+{
+	background-color: indianred;
+}
+*/
+img:hover{
+	background-color: gold;
+}
+.pizza{
+	background-color: green;
+	size-adjust: 10%;
+
+}
+.broc{
+	background-color: darkred;
+}
+
+#Heading{
+    color: darkred;
+}
